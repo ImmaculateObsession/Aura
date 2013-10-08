@@ -1,0 +1,6 @@
+* Monk (Impact, Movement)
+* Warrior (Blood, Life)
+* Brigand (Blood, Movement)
+* Priest (Life, Magic)
+* Ranger (Movement, Impact)
+* Mage (Magic, Blood)
