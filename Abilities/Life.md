@@ -1,23 +1,20 @@
 Level 2
 -------
 
-Meditation
-~~~~~~~~~~
+### Meditation
 
 Design Note: Generate boosts for chosen Aura.
 
 Level 4
 -------
 
-Holy Chant
-~~~~~~~~~~
+### Holy Chant
 
 Design Note: Party-wide drain equalizer.
 
 Level 7
 -------
 
-Rebirth
-~~~~~~~
+### Rebirth
 
 Design Note: Target ally total drain removal

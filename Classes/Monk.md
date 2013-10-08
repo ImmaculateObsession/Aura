@@ -35,30 +35,25 @@ Level | Features
 Class Feature Descriptions
 --------------------------
 
-Abundant Step
-~~~~~~~~~~~~~
+### Abundant Step
 
 Gain 2 Movement boosts at the start of combat.
 
-Relentless Attacks
-~~~~~~~~~~~~~~~~~~
+### Relentless Attacks
 
 Gain 1 Impact boost at the start of each turn.
 
-Cutting Blow
-~~~~~~~~~~~~
+### Cutting Blow
 
 Once per turn, when you apply an Impact drain, apply a Blood drain as well.
 
-Radiant Soul
-~~~~~~~~~~~
+### Radiant Soul
 
 Once per turn, when an ally gains a Movement boost, you may gain an Impact
 boost. Once per turn, when you gain a Movement boost, you may grant an Impact
 boost to an ally.
 
-Inner Tranquility
-~~~~~~~~~~~~~~~~~
+### Inner Tranquility
 
 At the start of each turn, for each Aura you may remove an equal number of
 boosts and drains from yourself.

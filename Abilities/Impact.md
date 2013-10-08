@@ -1,40 +1,35 @@
 Level 1
 -------
 
-Jab
-~~~
+### Jab
 
 Design Note: Impact generator
 
 Level 3
 -------
 
-Roundhouse Kick
-~~~~~~~~~~~~~~~
+### Roundhouse Kick
 
 Design Note: AOE Impact drainer
 
 Level 4
 -------
 
-Mighty Blow
-~~~~~~~~~~~
+### Mighty Blow
 
 Design Note: Impact Dump
 
 Level 6
 -------
 
-Crane Stance
-~~~~~~~~~~~~
+### Crane Stance
 
 Design Note: Impact + Movement Generator
 
 Level 9
 -------
 
-Panther Strike
-~~~~~~~~~~~~~~
+### Panther Strike
 
 Design Note: Heavy-duty transferral
 
