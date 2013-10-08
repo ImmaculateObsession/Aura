@@ -20,12 +20,12 @@ Class Features by Level
 
 Level | Features
 :----:|:------------
-1     | First specialization
+1     | First disipline
 2     | Abundant Step
 3     |
 4     | Relentless Attacks
 5     | Cutting Blow
-6     | Second specialization
+6     | Second discipline
 7     |
 8     | Radiant Soul
 9     |
